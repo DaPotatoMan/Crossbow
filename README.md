@@ -3,7 +3,7 @@ Crossbow is a game helper app which improves gaming experience.
 
 <br/>
 
-### Prerequisites
+## Prerequisites
 - Android 5.0+ (SDK >=21)
 - Android Webview 54+
 
